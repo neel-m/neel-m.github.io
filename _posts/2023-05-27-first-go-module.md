@@ -6,7 +6,7 @@ date: 2023-05-27
 tags: GO
 ---
 
-Created my first Go Module today: https://pkg.go.dev/github.com/neel-m/replacements
+Created my first Go Module today: [replacements](https://pkg.go.dev/github.com/neel-m/replacements)
 
 This all started because I wanted to learn Go.  The only way to truly know something is to use it for something "real".  Then to prove that you really understand it, explain it someone else who doesn't already know it.
 
